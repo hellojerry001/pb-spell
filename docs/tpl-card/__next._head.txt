@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[484,[],"ViewportBoundary"]
+4:I[484,[],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"014Wuh6aKPujTHN5J94OI","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"模板卡 TplCard — PortButler UI"}],["$","meta","1",{"name":"description","content":"从模板新建时选择脚手架的卡片：两列网格、选中态、Node 版本提示。"}]]
