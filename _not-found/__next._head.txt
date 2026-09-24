@@ -2,6 +2,6 @@
 2:I[484,[],"ViewportBoundary"]
 4:I[484,[],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"014Wuh6aKPujTHN5J94OI","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"buildId":"xG51N5JLzy_th9Plf_NtP","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"PortButler UI"}],["$","meta","1",{"name":"description","content":"PortButler 桌面端的组件库文档：设计令牌三层模型、无打包器的静态组件层、真实同源预览。"}]]
